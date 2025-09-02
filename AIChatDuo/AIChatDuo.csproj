@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Ollama" Version="1.15.0" />
+	  <None Include="..\README.md" Pack="true" PackagePath=""/>
   </ItemGroup>
 
 </Project>
